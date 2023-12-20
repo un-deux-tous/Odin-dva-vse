@@ -20,4 +20,4 @@ Android 11, 13    Chrome 111.0.5563.116 | 118.0.5993.89
 Website part "Магазин" is not under test, is switched off. 
 Website part "Помочь" is prioritized for testing. 
 
-The Test report: https://docs.google.com/spreadsheets/d/13O02m4mNQUekwMbnZQvJcsM3adQmla2cU6H5pTqzQKA/edit?usp=sharing
+
