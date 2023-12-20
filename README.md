@@ -20,4 +20,5 @@ Android 11, 13    Chrome 111.0.5563.116 | 118.0.5993.89
 Website part "Магазин" is not under test, is switched off. 
 Website part "Помочь" is prioritized for testing. 
 
+The Test Report [Odin-dva-vse отчет о тестировании сайта.xlsx](https://github.com/un-deux-tous/Odin-dva-vse/files/13725778/Odin-dva-vse.xlsx)
 
